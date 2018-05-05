@@ -1,0 +1,248 @@
+﻿Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe assembly.
+Committing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Uninstalling assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service TimeUpdateService...
+Service TimeUpdateService has been successfully installed.
+Creating EventLog source TimeUpdateService in log Application...
+Committing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Uninstalling assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Removing EventLog source TimeUpdateService.
+Service TimeUpdateService is being removed from the system...
+Service TimeUpdateService was successfully removed from the system.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service TimeUpdateService...
+Creating EventLog source TimeUpdateService in log Application...
+Rolling back assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Restoring event log to previous state for source TimeUpdateService.
+Installing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+Installing service TimeUpdateService...
+Service TimeUpdateService has been successfully installed.
+Creating EventLog source TimeUpdateService in log Application...
+Committing assembly 'C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.InstallLog
+   assemblypath = C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe

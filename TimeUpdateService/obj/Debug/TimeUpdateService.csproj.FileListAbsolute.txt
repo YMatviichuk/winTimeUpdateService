@@ -1,0 +1,9 @@
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe.config
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.exe
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\bin\Debug\TimeUpdateService.pdb
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.csprojResolveAssemblyReference.cache
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.csproj.CoreCompileInputs.cache
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.exe
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.pdb
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.ProjectInstaller.resources
+C:\Users\Yevhenii\source\repos\TimeUpdateService\TimeUpdateService\obj\Debug\TimeUpdateService.csproj.GenerateResource.cache
